@@ -1,0 +1,140 @@
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:27:16 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:28:14 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:29:59 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:31:06 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:33:53 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:34:14 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 25
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 26
+[15-Apr-2020 18:35:15 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 26
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 20
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 26
+[15-Apr-2020 18:35:30 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 26
+[15-Apr-2020 18:37:26 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:37:26 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:37:26 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:37:26 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:37:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:37:26 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 26
+[15-Apr-2020 18:37:26 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 26
+[15-Apr-2020 18:49:43 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:49:43 Etc/GMT] PHP Warning:  include(../admin/admin_db.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:49:43 Etc/GMT] PHP Warning:  include(): Failed opening '../admin/admin_db.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 2
+[15-Apr-2020 18:49:43 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:49:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 23
+[15-Apr-2020 18:49:43 Etc/GMT] PHP Notice:  Undefined variable: connection in /home/skillfem/public_html/includes/login_as_company.php on line 26
+[15-Apr-2020 18:49:43 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/skillfem/public_html/includes/login_as_company.php on line 26
+[15-Apr-2020 20:23:44 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[16-Apr-2020 12:37:54 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[19-Apr-2020 16:36:49 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[20-Apr-2020 04:16:35 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[20-Apr-2020 07:21:51 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[20-Apr-2020 11:53:47 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[20-Apr-2020 12:35:54 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[20-Apr-2020 20:39:23 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[21-Apr-2020 04:51:48 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[22-Apr-2020 19:17:57 Etc/GMT] PHP Notice:  Undefined variable: db_company_email in /home/skillfem/public_html/includes/login_as_company.php on line 36
+[22-Apr-2020 19:18:17 Etc/GMT] PHP Notice:  Undefined variable: db_company_email in /home/skillfem/public_html/includes/login_as_company.php on line 36
+[23-Apr-2020 04:34:17 Etc/GMT] PHP Notice:  Undefined variable: db_company_email in /home/skillfem/public_html/includes/login_as_company.php on line 36
+[23-Apr-2020 04:59:27 Etc/GMT] PHP Notice:  Undefined variable: db_company_email in /home/skillfem/public_html/includes/login_as_company.php on line 36
+[23-Apr-2020 12:58:17 Etc/GMT] PHP Notice:  Undefined variable: db_company_email in /home/skillfem/public_html/includes/login_as_company.php on line 36
+[23-Apr-2020 12:58:42 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 33
+[25-Apr-2020 00:41:44 Etc/GMT] PHP Notice:  Undefined variable: db_company_email in /home/skillfem/public_html/includes/login_as_company.php on line 36
+[25-Apr-2020 01:08:27 Etc/GMT] PHP Notice:  Undefined variable: db_company_email in /home/skillfem/public_html/includes/login_as_company.php on line 37
+[25-Apr-2020 01:12:30 Etc/GMT] PHP Warning:  include(../../simple_functions.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 3
+[25-Apr-2020 01:12:30 Etc/GMT] PHP Warning:  include(../../simple_functions.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 3
+[25-Apr-2020 01:12:30 Etc/GMT] PHP Warning:  include(): Failed opening '../../simple_functions.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 3
+[25-Apr-2020 01:12:30 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function escape() in /home/skillfem/public_html/includes/login_as_company.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[25-Apr-2020 01:20:06 Etc/GMT] PHP Warning:  include(../../simple_functions.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 3
+[25-Apr-2020 01:20:06 Etc/GMT] PHP Warning:  include(../../simple_functions.php): failed to open stream: No such file or directory in /home/skillfem/public_html/includes/login_as_company.php on line 3
+[25-Apr-2020 01:20:06 Etc/GMT] PHP Warning:  include(): Failed opening '../../simple_functions.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/skillfem/public_html/includes/login_as_company.php on line 3
+[25-Apr-2020 01:20:06 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function escape() in /home/skillfem/public_html/includes/login_as_company.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/skillfem/public_html/includes/login_as_company.php on line 19
+[26-Apr-2020 03:52:50 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 32
+[26-Apr-2020 15:15:07 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 32
+[01-May-2020 06:22:09 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 32
+[01-May-2020 06:27:40 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 32
+[01-May-2020 14:12:54 Etc/GMT] PHP Notice:  Undefined variable: db_company_email in /home/skillfem/public_html/includes/login_as_company.php on line 37
+[08-May-2020 16:25:05 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 32
+[11-May-2020 01:11:08 Etc/GMT] PHP Notice:  Undefined variable: db_member_email in /home/skillfem/public_html/includes/login_as_freelancer.php on line 32
